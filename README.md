@@ -19,5 +19,5 @@ This is useful for circumstances when you need the sidebar to be with you all th
 
 ### Usage:
 - Either via command palette. Search for: **toggle_side_bar**
-- Or use the shortcut: **ctrl+alt+shift+t** (Windows, Mac OS and Linux)
+- Or use the shortcut: <kbd>ctrl</kbd>+<kbd>alt</kbd>+<kbd>shift</kbd>+<kbd>t</kbd> (Windows, Mac OS and Linux)
 
