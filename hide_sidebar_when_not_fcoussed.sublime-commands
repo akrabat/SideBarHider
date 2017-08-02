@@ -1,0 +1,6 @@
+[
+  {
+    "caption": "Toggle Sidebar Autohide for Window",
+    "command": "toggle_side_bar"
+  }
+]
