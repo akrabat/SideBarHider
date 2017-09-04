@@ -14,10 +14,10 @@ Install via [Package Control][3] or you can `git clone git@github.com:akrabat/Hi
 
 ## Toggle Sidebar Autohide
 
-The autohide behaviour for a window can be toggled via the command: **toggle_side_bar**.
+The autohide behaviour for a window can be toggled via the command: **toggle_hide_sidebar**.
 This is useful for circumstances when you need the sidebar to be with you all the time, e.g. when doing extensive navigation throgh a folder tree. Toggling is window specific and not persisted across sublime sessions (sidebar will again be hidden after restarting Sublime Text). 
 
 ### Usage:
-- Either via command palette. Search for: **toggle_side_bar**
+- Either via command palette. Search for: **toggle_hide_sidebar**
 - Or use the shortcut: <kbd>ctrl</kbd>+<kbd>alt</kbd>+<kbd>shift</kbd>+<kbd>t</kbd> (Windows, Mac OS and Linux)
 
