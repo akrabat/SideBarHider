@@ -8,7 +8,7 @@ class Vars:
     auto_hide = True
 
 
-class ToggleSideBarCommand(sublime_plugin.TextCommand):
+class ToggleHideSidebarCommand(sublime_plugin.TextCommand):
     def run(self, edit):
         Vars.auto_hide = not Vars.auto_hide
         sublime.active_window().set_sidebar_visible(not Vars.auto_hide)
