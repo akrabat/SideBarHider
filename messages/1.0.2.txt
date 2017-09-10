@@ -1,0 +1,10 @@
+HideSidebarWhenNotFocussed is now SideBarHider.
+
+We decided to give the plugin a shorter more handy name. Here it is. From now on HideSidebarWhenNotFocussed is just
+SideBarHider.
+
+Also as a new feature you can now toggle the autohiding for the current window.
+Search the CommandPalette for **SideBarHider**.
+
+Or just use the shortcut:
+**Ctrl+Alt+Shift+t** [Windows + MacOS + Linux]
