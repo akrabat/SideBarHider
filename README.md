@@ -5,7 +5,7 @@ focus. It also works well when paired with the popular [FocusFileOnSidebar][2]
 
 ## Installing
 
-Install via [Package Control][3] or you can `git clone git@github.com:akrabat/HideSidebarWhenNotFocussed.git` from within your Packages folder.
+Install via [Package Control][3] or you can `git clone git@github.com:akrabat/SideBarHider.git` from within your Packages folder.
 
 
 [1]: http://www.sublimetext.com/
